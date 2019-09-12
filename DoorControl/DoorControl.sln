@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorControl", "DoorControl\DoorControl.csproj", "{254D2440-DD40-458A-98A6-DE0D6005D9BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{254D2440-DD40-458A-98A6-DE0D6005D9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254D2440-DD40-458A-98A6-DE0D6005D9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254D2440-DD40-458A-98A6-DE0D6005D9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254D2440-DD40-458A-98A6-DE0D6005D9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {601D34C8-93E3-4682-B8F4-5D5EC5B5D660}
+	EndGlobalSection
+EndGlobal
